@@ -1,0 +1,58 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 40px;
+}
+
+.search-bar1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 40px;
+}
+
+.search-bar2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 40px;
+    gap: 100px;
+}
+
+.search-input {
+    flex: 3;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 500px;
+}
+
+.add-company-btn {
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+    /* background-color: #27ae60; */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    background: linear-gradient(to right, #D100F3, #002BC5);
+}
+
+.add-company-icon {
+    margin-right: 5px;
+}
+
+.filter-dropdown {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 150px;
+}
